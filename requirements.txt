@@ -1,3 +1,4 @@
+pip>=26.0.1
 streamlit==1.24.1
 matplotlib==3.7.1
 numpy
@@ -8,10 +9,10 @@ scikit-learn==1.0.2
 rdkit==2023.03.2
 altair<5
 rdkit-pypi==2021.3.3
-pip>=26.0.1
 rich>=13.7,<15
 markdown-it-py>=3.0,<5
 mdurl>=0.1.2
 pygments>=2.17,<3
+
 
 
